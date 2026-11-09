@@ -58,8 +58,14 @@ ol{
     list-style-position: inside;
 }
 
+nav{
+    background-color: green;
+    margin: auto;
+    max-width: 150px;
+}
+
 a {
-    color: chocolate;
+    color: white;
 }
 
 footer{
